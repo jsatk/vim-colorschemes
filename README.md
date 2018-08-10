@@ -1,4 +1,8 @@
-**NOTE:** This is my personal fork of Franco's (@flazz) colorschemes plugin.  At some point `colors/darkBlue.vim` was renamed to `colors/darkblue.vim` incorrect and it causes macOS & git to throw a fit every time I update my plugins.  So I forked it and forced a rename and called it a day.  If that's all you're looking to do — to stop your Vim plugin manager from yelling at you every time you update all plugins then you can use this fork instead.  But I prolly won't be maintaining it and if Franco (@flazz) ever fixes the issue in the main repo I'll prolly close this fork.  If you're using this and then one day it doesn't exist it means Franco fixed the git rename issue in the main repo and you can move back to that.
+**NOTE:** This is my personal fork of [Franco][flazz]'s colorschemes plugin.  At some point `colors/darkBlue.vim` was renamed to `colors/darkblue.vim` incorrect and it causes macOS & git to throw a fit every time I update my plugins.  So I forked it and forced a rename and called it a day.  If that's all you're looking to do — to stop your Vim plugin manager from yelling at you every time you update all plugins then you can use this fork instead.  But I prolly won't be maintaining it and if [Franco][flazz] ever fixes the issue in the main repo I'll prolly close this fork.  If you're using this and then one day it doesn't exist it means Franco fixed the git rename issue in the main repo and you can move back to that.
+
+---
+
+[flazz]: https://github.com/flazz
 
 **me:** Hi everyone, my name is Franco and I'm addicted to colorschemes
 
